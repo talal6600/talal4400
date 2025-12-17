@@ -1,0 +1,5 @@
+{
+  "name": "Mr. Delegate Pro",
+  "description": "A comprehensive PWA for managing delegate inventory, sales, fuel expenses, and reporting with cloud synchronization capabilities.",
+  "requestFramePermissions": []
+}
